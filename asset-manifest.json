@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WordEmbedVis/static/css/main.b100e6da.chunk.css",
+    "main.js": "/WordEmbedVis/static/js/main.c35faf29.chunk.js",
+    "main.js.map": "/WordEmbedVis/static/js/main.c35faf29.chunk.js.map",
+    "runtime-main.js": "/WordEmbedVis/static/js/runtime-main.d6967407.js",
+    "runtime-main.js.map": "/WordEmbedVis/static/js/runtime-main.d6967407.js.map",
+    "static/js/2.33126b0d.chunk.js": "/WordEmbedVis/static/js/2.33126b0d.chunk.js",
+    "static/js/2.33126b0d.chunk.js.map": "/WordEmbedVis/static/js/2.33126b0d.chunk.js.map",
+    "index.html": "/WordEmbedVis/index.html",
+    "precache-manifest.3b6483ccd4aeab0baba895bedb9950de.js": "/WordEmbedVis/precache-manifest.3b6483ccd4aeab0baba895bedb9950de.js",
+    "service-worker.js": "/WordEmbedVis/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/WordEmbedVis/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/WordEmbedVis/static/media/logo.25bf045c.svg"
+  }
+}
